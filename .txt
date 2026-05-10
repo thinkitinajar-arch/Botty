@@ -1,7 +1,1 @@
-ID=1119279268766167061
-TYPE=bot
-MAIN=main.py
-NAME=Juckper Intern
-RAM=100
-AUTORESTART=true
-VERSION=latest
+
